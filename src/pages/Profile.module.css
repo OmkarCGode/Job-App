@@ -1,0 +1,16 @@
+
+.container{
+    width: calc(100%-44px);
+    background-color: aquamarine;
+    margin: 0 22px;
+    margin-top: 32px;
+}
+
+.container h2{
+    font-size: 18px;
+}
+
+
+@media (min-width:500px){
+    
+}
